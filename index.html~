@@ -3,10 +3,9 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Tuan T</title>
+    <title>Savory</title>
     <link rel="stylesheet" type="text/css" href="reset.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
   </head>
@@ -16,17 +15,10 @@
     <div class="container">
 
       <header>
-
+        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
       </header>
-      <div class="wrapper">
-  <h1>Tuan Tran</h1>
-    <p class="bio"> I'm a sophomore CS major with an interest in switching to BIT"
-    </p>
-  <div class="buttonBox">
-    <a class="myButton" href="#projects">Go</a>
-  </div>
-</div>
-      <main id="project">
+
+      <main>
         <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
           <h2>CHOCOLATE MOUSSE</h2>
